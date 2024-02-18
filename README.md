@@ -1,8 +1,8 @@
+#### Objective provided by Codecademy
+
 ### WEB DEVELOPMENT FOUNDATIONS
 
 # Challenge Project: Build Your Own Cheat Sheet
-
-#### Objective provided by Codecademy:
 
 # Overview
 
